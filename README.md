@@ -27,7 +27,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Didn't really have any challenges.
+Didn't really have any challenges with this app.
 
 ## License
 
